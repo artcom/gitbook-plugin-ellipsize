@@ -1,0 +1,14 @@
+{
+  "name": "gitbook-plugin-ellipsize",
+  "description": "Replace blocks of code by ellipsis",
+  "main": "index.js",
+  "version": "0.1.0",
+  "engines": {
+    "gitbook": "*"
+  },
+  "repository": "artcom/gitbook-plugin-ellipsize",
+  "devDependencies": {
+    "eslint": "^1.0.0"
+  },
+  "license": "MIT"
+}
